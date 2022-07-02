@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-image: url('image.jpg');
+}
+.red{
+    color: rgb(241, 67, 226);
+    height: 344px;
+}
+.green{
+    color: green;
+}
